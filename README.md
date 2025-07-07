@@ -8,6 +8,6 @@
 
 <p align="center">
   <a href="https://github.com/THERITESHADHAV">
-    <img src="https://github-readme-activity-graph-arjun.vercel.app//graph?username=Arjunmehta312&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+    <img src="https://github-readme-activity-graph-arjun.vercel.app/graph?username=Arjunmehta312&theme=tokyo-night&hide_border=true&area=true&days=45" alt="GitHub Contribution Graph (90 days)" />
   </a>
 </p>
