@@ -1,4 +1,4 @@
-I like computers
+I like computers.
 
 # My Statistics at a Glance
 
