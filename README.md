@@ -1,3 +1,5 @@
+I like computers
+
 # My Statistics at a Glance
 
 <p align="center">
