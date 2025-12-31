@@ -7,3 +7,5 @@ I like computers.
   </a>
 </p>
 
+### Visitor Count
+![Visitor Count](https://count.getloli.com/get/@Arjunmehta312?theme=original-new)
