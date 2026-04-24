@@ -7,5 +7,8 @@ I like computers.
   </a>
 </p>
 
-### Visitor Count
-![Visitor Count](https://count.getloli.com/get/@Arjunmehta312?theme=original-new)
+### Number of times my GH profile got viewed
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arjunmehta312&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
